@@ -87,3 +87,12 @@ X. Li, and Y. Zhang. Evolutionary timeline summarization: a balanced optimizatio
 4 Life Cycle model----Y. Chang, M. Yamada, A. Ortega, and Y. Liu. Ups and downs in buzzes: Life cycle modeling for temporal pattern discovery. In Preceedings of ICDM, 2014.
 
 还有一些年代久远~~~~~~~~~~~~~~
+
+
+# 总结 #
+
+1 本文的时间信息和内容信息是单独分开获得，是否可以时间信息和内容信息联合强化。
+
+2 人类生成时间轴摘要都是根据上个时间段信息来生成下个时间段信息，两个时间之间有一个演化过程。
+
+**由2可以想到，分段时间，然后将上一时间段的信息抽取关键信息融合到下一时间段信息的生成。可用生成式（关键主题信息生成式模型），用生成式模型就可以将每个时间段的内容作为一个样本。**
