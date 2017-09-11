@@ -7,7 +7,9 @@ author：Yi Chang, Jiliang Tang, Dawei Yin, Makoto Yamada, and Yan Liu
 **本文主要贡献：** 1）通过life cycle model为时间序列的sudden-spike-and-heavy-tail建模。 2）为了对情节进行检测，使用一个新的贝叶斯非参模型来同时获取内容和时态信息。 3）提出的Timeline-Sumy框架可以灵活的融合社交媒体数据中的各种类型信号。
 
 
-**内容：**未完待续、、、、、、
+**内容：**  关键是联合时态信息和内容信息。
+              
+              未完待续、、、、、、
 
 
 ## 数据集 ##
